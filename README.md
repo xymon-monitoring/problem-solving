@@ -9,7 +9,8 @@ This is a POC so far, that just tries to help Xymon
 ### Goals of this repo
 - To inventory some problems  
   -  **That do not fit well in any other repos**
-  -  **That are not in any other place so far**
+  -  **That are on the mailing lists as it is not easy to follow them**
+  -  **That are not in any other place so far** (No duplicate)
 - To have a **starting point** and/or a a **follow up** for such problems
 
 ### How
