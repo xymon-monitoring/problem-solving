@@ -30,5 +30,6 @@ This is a POC so far, that just tries to help Xymon
   - Can be changed in the near future as: I like it, but it is not very usefull: would like to try a more usefull meaning
  
 ### Remarks
+- Idea of this repo was copied from other dev teams that have to manage "Problems that do not fit weel in other repos" 
 - This Github organization is not official in the Xymon Ecosystem
 - Content is based on the current (2023) Mailman mailing list, but is not validated by a Xymon admins or partially only
