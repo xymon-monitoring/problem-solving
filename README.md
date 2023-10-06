@@ -12,7 +12,7 @@ This is a POC so far, that just tries to help Xymon
   -  **That are long discussions on the mailing lists that need to be consolidated**
   -  **That are not in any other place so far** (No duplicate)
 - To have an efficient collaborative and a follow up tool
-- Content: no files (so no code), just issues
+- (Content: no files, no codes, just issues)
 
 ### How
 - By listing problems and orginized them in a **the summary**
