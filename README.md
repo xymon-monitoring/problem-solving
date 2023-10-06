@@ -10,12 +10,12 @@ This is a POC so far, that just tries to help Xymon
 - To inventory and summary some problems  
   -  **That do not fit well in any other repos**
   -  **That are long discussions on the mailing lists that need to be consolidated**
-  -  **That are not in any other place so far** (No duplicate)
+  -  **That are not in any other place so far** (No duplicates)
 - To have an efficient collaborative and a follow up tool
 - (Content: no files, no codes, just issues)
 
 ### How
-- By listing problems and orginized them in a **the summary**
+- By listing problems and organized them in a **Summary**
 - By having **a place for all such issues**, accessible by anyone
   - **Directly editable** by any member, so anyone can correct anything that is wrong (no need to make a PR!)
   - If you want to correct something but you are not sure: **strike-through the text** (like \~\~text\~\~) that you want to replace and **add the one you want**.  
@@ -24,26 +24,14 @@ This is a POC so far, that just tries to help Xymon
    - Each list correspond to a category of problems
    - Split a category in 2, if it has more than 10 elements 
    - Try to order by priority or importance
-- Recurrent work: create a specific issues, refine issues, add new issue, remove closed issue (list), consolidate info
-- A checkbox is used to say that "there is nothing more to do in the summary" for this Issue 
-  - This the case if there is a Ref to a specific issue 
+- Recurrent work: create specific issues, refine issues, create issue, delete closed issues (list), consolidate information
+- A checkbox is used to say that "there is nothing more to do in the summary" for this issue 
+  - This the case if a specific issue is created
   - Can be changed in the near future as: I like it, but it is not very usefull: would like to try a more usefull meaning
  
 ### Remarks
-- Idea of this repo was copied from other dev teams that have to manage "Problems that do not fit weel in other repos" 
+- Idea of this repo was copied from other development teams that have to manage "Problems that do not fit well in other repos" 
 - This Github organization is not official in the Xymon Ecosystem
 - Content is based on the current (2023) Mailman mailing list, but is not validated by a Xymon admins or partially only
-- Seem to me also a need for guide lines to resolve problems to be as efficienttl as possible. To have something like (but I am not an expert in managing project)
-  - Define specifications
-    - Goals
-    - Prerequisits
-    - Potential problems
-    - Solution evaluation criteria/method
-  - Look for solutions
-    - Search for solutions that meet specification (most of them)
-    - Compare
-  - Choose
-  - Implement
-  - Document
-  - Maintain
-  
+- Seems to me also a need for some guide lines to match what the project/admin team expect:
+  - How to help reolving problem
