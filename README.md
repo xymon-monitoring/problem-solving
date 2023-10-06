@@ -7,12 +7,12 @@ This is a POC so far, that just tries to help Xymon
 - [All problems](https://github.com/xymon-monitoring/problem-solving/issues)
 
 ### Goals of this repo
-- To inventory some problems  
+- To inventory and summary some problems  
   -  **That do not fit well in any other repos**
-  -  **That are on the mailing lists as it is not easy to follow them**
+  -  **There is a need to consolidate long discussions on the mailing lists as it is not easy to follow them**
   -  **That are not in any other place so far** (No duplicate)
-- To have a **starting point** and/or a a **follow up** for such problems
-- No files, no code, just problems (issues)
+- To have an efficient collaborative and a follow up tool
+- Content: no files (so no code), just issues
 
 ### How
 - By listing problems and orginized them in a **the summary**
