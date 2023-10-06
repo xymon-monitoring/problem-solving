@@ -33,7 +33,7 @@ This is a POC so far, that just tries to help Xymon
 - Idea of this repo was copied from other dev teams that have to manage "Problems that do not fit weel in other repos" 
 - This Github organization is not official in the Xymon Ecosystem
 - Content is based on the current (2023) Mailman mailing list, but is not validated by a Xymon admins or partially only
-- Seem to me also a need for guide lines to resolve problems to be as efficient as possible, something like (but I am not an expert in managing project)
+- Seem to me also a need for guide lines to resolve problems to be as efficienttl as possible. To have something like (but I am not an expert in managing project)
   - Define specifications
     - Goals
     - Prerequisits
