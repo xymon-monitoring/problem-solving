@@ -37,8 +37,8 @@ This is a POC so far, that just tries to help Xymon
   - Define specifications
     - Goals
     - Prerequisits
-    - Potenetial problems
-    - Solution evaluation methode
+    - Potential problems
+    - Solution evaluation criteria/method
   - Look for solutions
     - Search for solutions that meet specification (most of them)
     - Compare
