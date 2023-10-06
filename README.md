@@ -33,5 +33,4 @@ This is a POC so far, that just tries to help Xymon
 - Idea of this repo was copied from other development teams that have to manage "Problems that do not fit well in other repos" 
 - This Github organization is not official in the Xymon Ecosystem
 - Content is based on the current (2023) Mailman mailing list, but is not validated by a Xymon admins or partially only
-- Seems to me also a need for some guide lines to match what the project/admin team expect:
-  - How to help reolving problem
+- Seems to me a need for some guide lines to match what the project/admin team expect: How to help resolving problem etc...
