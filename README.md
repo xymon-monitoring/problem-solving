@@ -7,7 +7,7 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
 - [All the problems which are detailed](https://github.com/xymon-monitoring/problem-solving/issues)
 
 ### Goals of this repo
-- To inventory and summary some problems  
+- To **inventory** and summary some problems
   -  **That do not fit well in any other repos**
   -  **That are long discussions on the mailing lists that need to be consolidated**
   -  **That are not in any other place so far** (No duplicates)
