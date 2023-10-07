@@ -2,9 +2,9 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
 - See "Goals of this repo" and "Remarks" below
 
 
-### Xymon problems
-- [Summary of problems](https://github.com/xymon-monitoring/problem-solving/issues/1)
-- [All problems](https://github.com/xymon-monitoring/problem-solving/issues)
+### Xymon problems/issues
+- [Summary: All problems status](https://github.com/xymon-monitoring/problem-solving/issues/1)
+- [All the problems which are detailed](https://github.com/xymon-monitoring/problem-solving/issues)
 
 ### Goals of this repo
 - To inventory and summary some problems  
