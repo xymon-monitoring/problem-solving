@@ -16,11 +16,11 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
 
 ### How
 - By having **a place for all such problems**, accessible by anyone
-  - **Directly editable** by any member, so anyone can correct anything that is wrong (no need to make a PR!)
-  - If you want to correct something but you are not sure: **strike-through the text** (like \~\~text\~\~) that you want to replace and **add the one you want**.  
-  - Github issues **have an history**: (click on "edited" at the top) to revert a mistake 
+  - **Directly editable** by any member: **Colaborative** and efficient: anyone can correct anything that is wrong (no need to make a PR!)
+  - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
+  - Github issues have an history: (click on "edited" at the top) to revert a mistake 
 - By making a **Summary** of problems 
-   - To reach quickly the essential 
+   - **To reach quickly the essential** 
    - Structured, organized
      - Each list correspond to a category of problems
      - Split a category in 2, if it has more than 10 elements 
