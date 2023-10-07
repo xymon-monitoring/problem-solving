@@ -26,9 +26,9 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
      - Split a category in 2, if it has more than 10 elements 
      - Try to order by priority or importance
 - Recurrent work: create specific issues, refine issues, create issue, delete closed issues (list), consolidate information
-- Checkbox meaning:
-  - The problem assigned to someone (see details).
-  - Trivial: by default we could considered that any problem is assigned and supported by its admin: The checkbox try to assure it is really by verifying.
+- Checkbox meaning
+  - Trivialy we could considered that any problem is assigned and supported by its admins
+  - A checkbox checked mean: we are sure someone take care of the problem (=The problem assigned to someone)
  
 ### Remarks
 - Idea of this repo was copied from other development teams that have to manage "Problems that do not fit well in other repos" 
