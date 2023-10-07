@@ -15,15 +15,16 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
 - (Content: no files, no codes, just issues)
 
 ### How
-- By listing problems and organized them in a **Summary**
-- By having **a place for all such issues**, accessible by anyone
+- By having **a place for all such problems**, accessible by anyone
   - **Directly editable** by any member, so anyone can correct anything that is wrong (no need to make a PR!)
   - If you want to correct something but you are not sure: **strike-through the text** (like \~\~text\~\~) that you want to replace and **add the one you want**.  
   - Github issues **have an history**: (click on "edited" at the top) to revert a mistake 
-- By organizing the summary into lists of problems
-   - Each list correspond to a category of problems
-   - Split a category in 2, if it has more than 10 elements 
-   - Try to order by priority or importance
+- By making a **Summary** of problems 
+   - To reach quickly the essential 
+   - Structured, organized
+     - Each list correspond to a category of problems
+     - Split a category in 2, if it has more than 10 elements 
+     - Try to order by priority or importance
 - Recurrent work: create specific issues, refine issues, create issue, delete closed issues (list), consolidate information
 - A checkbox is used to say that "there is nothing more to do in the summary" for this issue 
   - This the case if a specific issue is created
