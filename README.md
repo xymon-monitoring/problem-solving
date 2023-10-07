@@ -1,4 +1,4 @@
-This is a POC so far, that just tries to help Xymon 
+This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that just tries to help Xymon 
 - See "Goals of this repo" and "Remarks" below
 
 
