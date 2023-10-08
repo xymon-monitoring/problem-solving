@@ -4,7 +4,7 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
 - [Summary of all the problems and their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
 - [All the problems](https://github.com/xymon-monitoring/problem-solving/issues)
 
-### Goals of this repo
+### Goals
 - To **inventory** and **manage status** of problems
   -  **That do not fit well in any other repos**
   -  **That are long discussions on the mailing lists that need to be consolidated**
@@ -23,6 +23,7 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
     - Try to order by priority or importance
   - Recurrent work to do: create specific issues, refine issues, create issue, delete closed issues (list), consolidate information
 - Github issues have an history: (click on "edited" at the top) to revert a mistake 
+- The repo is the tool (and is dedicated only for that)
 
  
 
