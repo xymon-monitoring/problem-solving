@@ -1,6 +1,4 @@
 This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that just tries to help Xymon 
-- See "Goals of this repo" just below
-
 
 ### Xymon problems/issues
 - [Summary of all the problems and their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
