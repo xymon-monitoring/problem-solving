@@ -1,5 +1,5 @@
 This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that just tries to help Xymon 
-- See "Goals of this repo"
+- See "Goals of this repo" just below
 
 
 ### Xymon problems/issues
