@@ -23,7 +23,7 @@ This is a PoC (Proof of Concept), can disapear without notice!
   - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
 - Guests can **add issue**
 - Admins of this tool **help in finding solutions** to resolve problems
-  - They take care of the community and its volunteers
+  - They take care of the community and its volunteers (rules, CoC ?)
   - They assign people with their consentement to problems 
 - Maintainers do **summary** of problems: **to help reaching quickly the essential** 
   - Do a **digest** and **categorized lists of problems** 
