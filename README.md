@@ -14,6 +14,7 @@ This is a PoC (Proof of Concept) of a tool that can disapear without notice!
   -  **That are long discussions on the mailing lists that need to be consolidated** 
   -  **That are not in any other place so far** (No duplicates)
 - To have an  **colaborative, efficient and simple** follow up tool
+- Have the **ability to focus on the main, most blocking problems**
 
 ### How
 - **Anyone** can participate! **adding problems**, comment other problems
@@ -25,7 +26,8 @@ This is a PoC (Proof of Concept) of a tool that can disapear without notice!
   - They take care of the community and its volunteers (rules, CoC ?)
   - They assign people with their consentement to problems 
 - **Maintainers** do **summary** of problems: **to help reaching quickly the essential** 
-  - Do a **digest** and **categorized lists of problems**
+  - Do a **digest** that focus on the main problems**
+  - Do **categorized lists of problems** that structure all problems
   - Is neutral (try to be: do not push its ideas, do not remove ideas from others,.. )
   - Follow guide lines to keep thing simple:
     - Split a category in 2, if it has more than 10 elements 
