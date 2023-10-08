@@ -16,12 +16,14 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
 
 ### How
 - By having **a place for all such problems**, accessible by anyone
-  - **Directly editable** by any member: **Colaborative** and efficient: anyone can correct anything that is wrong (no need to make a PR!)
-  - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
+  - **Colaborative** and efficient
+    - Member can **directly edit** anything, correct that is wrong
+      - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
+    - Guest can **add issue** 
   - Github issues have an history: (click on "edited" at the top) to revert a mistake 
-- By making a **Summary** of problems: **To reach quickly the essential** 
-   - Structured, organized: a **Digest** and **Categorized lists of problems** 
-   - Guild line I followed:
+- By making a **summary** of problems: **to reach quickly the essential** 
+   - A **Digest** and **categorized lists of problems** 
+   - Structured, organized ad simple. Guide lines:
      - Split a category in 2, if it has more than 10 elements 
      - Try to order by priority or importance
 - Recurrent work to do: create specific issues, refine issues, create issue, delete closed issues (list), consolidate information
