@@ -25,7 +25,7 @@ This is a PoC (Proof of Concept) of a tool ([Is this tool a good idea?](https://
   - They take care of the community and its volunteers (rules, CoC ?)
   - They assign people with their consentement to problems 
 - **Maintainers** do the **summary** of problems: **to reach quickly the essential** 
-  - Do a **digest** that focus on the main problems**
+  - Do a **digest** that focus on the main problems
   - Do **categorized lists of problems** that structure all problems
   - Is neutral (try to be: do not push its ideas, do not remove ideas from others,.. )
   - Follow guide lines to keep thing simple:
