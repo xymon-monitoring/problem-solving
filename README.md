@@ -1,18 +1,13 @@
 This is a PoC (Proof of Concept) that can disapear without notice!  
+#17
 
 ### Xymon problems/issues
 - [Summary of all the problems and their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
 - [All the problems](https://github.com/xymon-monitoring/problem-solving/issues)
 
-### Context 2023: a need to "move forward"
-- People are asking if Xymon is still alive, what is the future ? 
-- People need to renew their tools: They need to have arguments to stay with Xymon
-  - They love Xymon, but need also "moderm" features
-- People are willing to help “move forward,” but are not easily able to do so.
-- The project and ecosystem/community seem to be producing less for some time (which may not be reality)
 
 ### Goals
-- To **inventory** and **manage status** of problems (related to the curent context, but not only)
+- To **inventory** and **manage status** of problems (related to the current context, but not only)
   -  **That do not fit well in other repos**
   -  **That are long discussions on the mailing lists that need to be consolidated** 
   -  **That are not in any other place so far** (No duplicates)
