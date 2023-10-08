@@ -6,7 +6,7 @@ This is a PoC (Proof of Concept), can disapear without notice!
 
 ### Context 2023: a need to move forward
 - People are asking if Xymon is still alive, what is the future ? 
-- People need to renew their tools: They Need to have some argument to stay with Xymon
+- People need to renew their tools: They need to have arguments to stay with Xymon
   - They usuallly love it, but need also "moderm" features
 - People are willing to help "moving forward", but are not easily able to
 
