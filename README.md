@@ -13,7 +13,7 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
 - (Content: no files, no codes, just issues)
 
 ### How
-- By having **a **Colaborative** and efficient place for all such problems**, accessible by anyone
+- By having a **colaborative, efficient and simple place/tool** for all such problems
   - Members can **directly edit** anything, correct what is wrong
     - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
   - Guests can **add issue** 
