@@ -16,7 +16,7 @@ This is a PoC (Proof of Concept) of a tool that can disapear without notice!
 - To have an  **colaborative, efficient and simple** follow up tool
 
 ### How
-- **Anyone** can participate! **adding problems**, comment others problems
+- **Anyone** can participate! **adding problems**, comment other problems
   - Do what you can, even you are not sure its is the best way to do it
   - Dont be afraid, the maintainer will consolidate 
 - **Members** can **directly edit** anything and correct what is wrong
