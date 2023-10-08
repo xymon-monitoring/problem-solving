@@ -1,4 +1,4 @@
-This is a PoC (Proof of Concept), can disapear without notice  
+This is a PoC (Proof of Concept), can disapear without notice!  
 
 ### Xymon problems/issues
 - [Summary of all the problems and their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
