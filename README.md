@@ -30,8 +30,4 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
   - Trivialy we could considered that any problem is assigned and supported by its admins
   - A checkbox checked mean: we are sure someone take care of the problem (=The problem assigned to someone)
  
-### Remarks
-- Idea of this repo was copied from other development teams that have to manage "Problems that do not fit well in other repos" 
-- This Github organization is not official in the Xymon Ecosystem
-- Content is based on the current (2023) Mailman mailing list, but is not validated by a Xymon admins or partially only
-- Seems to me a need for some guide lines to match what the project/admin team expect: How to help resolving problem etc...
+
