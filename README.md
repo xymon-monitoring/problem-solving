@@ -4,11 +4,12 @@ This is a PoC (Proof of Concept), can disapear without notice!
 - [Summary of all the problems and their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
 - [All the problems](https://github.com/xymon-monitoring/problem-solving/issues)
 
-### Context 2023: a need to move forward
+### Context 2023: a need to "move forward"
 - People are asking if Xymon is still alive, what is the future ? 
 - People need to renew their tools: They need to have arguments to stay with Xymon
-  - They love it, but need also "moderm" features
-- People are willing to help "moving forward", but are not easily able to
+  - They love Xymon, but need also "moderm" features
+- People are willing to help “move forward,” but are not easily able to do so.
+- The project and ecosystem/community seem to be producing less for some time (which may not be reality)
 
 ### Goals
 - To **inventory** and **manage status** of problems (related to the curent context, but not only)
@@ -16,7 +17,6 @@ This is a PoC (Proof of Concept), can disapear without notice!
   -  **That are long discussions on the mailing lists that need to be consolidated** 
   -  **That are not in any other place so far** (No duplicates)
 - To have an  **colaborative, efficient and simple** follow up tool
-
 
 ### How
 - Anyone can read  
