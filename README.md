@@ -15,7 +15,7 @@ This is a PoC (Proof of Concept), can disapear without notice!
   -  **That are long discussions on the mailing lists that need to be consolidated** 
   -  **That are not in any other place so far** (No duplicates)
 - To have an  **colaborative, efficient and simple** follow up tool
-- (Content: no files, no codes, just issues)
+
 
 ### How
 - Members can **directly edit** anything, correct what is wrong
@@ -31,7 +31,7 @@ This is a PoC (Proof of Concept), can disapear without notice!
     - Try to order by priority or importance
   - Do recurrent work: create specific issues, refine issues, create issue, delete closed issues (list), consolidate information
 - Github issues have an history: (click on "edited" at the top) to revert a mistake 
-- The repo is the tool (and is dedicated only for that)
+- The repo is the tool (and is dedicated only for that: no files, no codes, just issues)
 
  
 
