@@ -16,9 +16,9 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
 
 ### How
 - By having **a **Colaborative** and efficient place for all such problems**, accessible by anyone
-  - Member can **directly edit** anything, correct that is wrong
+  - Members can **directly edit** anything, correct what is wrong
     - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
-  - Guest can **add issue** 
+  - Guests can **add issue** 
   - Github issues have an history: (click on "edited" at the top) to revert a mistake 
 - By making a **summary** of problems: **to reach quickly the essential** 
    - A **Digest** and **categorized lists of problems** 
