@@ -3,7 +3,7 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
 
 
 ### Xymon problems/issues
-- [Summary of all problems and status](https://github.com/xymon-monitoring/problem-solving/issues/1)
+- [Summary of all the problems and their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
 - [All the problems](https://github.com/xymon-monitoring/problem-solving/issues)
 
 ### Goals of this repo
