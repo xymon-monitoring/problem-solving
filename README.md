@@ -1,6 +1,5 @@
-This is a PoC (Proof of Concept) of a tool that can disapear without notice!
+This is a PoC (Proof of Concept) of a tool ([Is this tool a good idea?](https://github.com/xymon-monitoring/problem-solving/issues/17)) that can disapear without notice!
 
-[Is this tool a good idea?](https://github.com/xymon-monitoring/problem-solving/issues/17)
 
 
 ### Xymon problems/issues
