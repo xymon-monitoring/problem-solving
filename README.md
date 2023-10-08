@@ -17,8 +17,8 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
   - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
 - Guests can **add issue** 
 - Maintainer is making a **summary** of problems: **to help reaching quickly the essential** 
-  - A **higest** and **categorized lists of problems** 
-  - Structured, organized ad simple. Guide lines:
+  - A **digest** and **categorized lists of problems** 
+  - Guide lines
     - Split a category in 2, if it has more than 10 elements 
     - Try to order by priority or importance
   - Recurrent work to do: create specific issues, refine issues, create issue, delete closed issues (list), consolidate information
