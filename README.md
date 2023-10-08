@@ -19,15 +19,15 @@ This is a PoC (Proof of Concept) that can disapear without notice!
 - To have an  **colaborative, efficient and simple** follow up tool
 
 ### How
-- Anyone can participate! **adding issue**
-- Do what you can, even you are not sure its is the best way to do it
-- Dont be afraid, the maintainer will consolidate 
-- Members can **directly edit** anything and correct what is wrong
+- **Anyone** can participate! **adding issue**
+  - Do what you can, even you are not sure its is the best way to do it
+  - Dont be afraid, the maintainer will consolidate 
+- **Members** can **directly edit** anything and correct what is wrong
   - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
-- Admins of this tool **help in finding solutions** to resolve problems
+- **Admins** of this tool **help in finding solutions** to resolve problems
   - They take care of the community and its volunteers (rules, CoC ?)
   - They assign people with their consentement to problems 
-- Maintainers do **summary** of problems: **to help reaching quickly the essential** 
+- **Maintainers** do **summary** of problems: **to help reaching quickly the essential** 
   - Do a **digest** and **categorized lists of problems**
   - Is neutral (try to be: do not push its ideas, do not remove ideas from others,.. )
   - Follow guide lines to keep thing simple:
