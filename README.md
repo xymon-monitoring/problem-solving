@@ -19,15 +19,12 @@ This is a PoC (Proof of Concept) so far (as this whole organisation/repo), that 
   - **Directly editable** by any member: **Colaborative** and efficient: anyone can correct anything that is wrong (no need to make a PR!)
   - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
   - Github issues have an history: (click on "edited" at the top) to revert a mistake 
-- By making a **Summary** of problems 
-   - **To reach quickly the essential** 
-   - Structured, organized
-     - Each list correspond to a category of problems
+- By making a **Summary** of problems: **To reach quickly the essential** 
+   - Structured, organized: a **Digest** and **Categorized lists of problems** 
+   - Guild line I followed:
      - Split a category in 2, if it has more than 10 elements 
      - Try to order by priority or importance
-- Recurrent work: create specific issues, refine issues, create issue, delete closed issues (list), consolidate information
-- Checkbox meaning
-  - Trivialy we could considered that any problem is assigned and supported by its admins
-  - A checkbox checked mean: we are sure someone take care of the problem (=The problem assigned to someone)
+- Recurrent work to do: create specific issues, refine issues, create issue, delete closed issues (list), consolidate information
+
  
 
