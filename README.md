@@ -19,9 +19,10 @@ This is a PoC (Proof of Concept), can disapear without notice!
 
 
 ### How
-- Members can **directly edit** anything, correct what is wrong
+- Anyone can read  
+- Anyone can **add issue**
+- Members can **directly edit** anything and correct what is wrong
   - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
-- Guests can **add issue**
 - Admins of this tool **help in finding solutions** to resolve problems
   - They take care of the community and its volunteers (rules, CoC ?)
   - They assign people with their consentement to problems 
