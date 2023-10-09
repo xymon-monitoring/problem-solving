@@ -18,7 +18,7 @@ This is a PoC (Proof of Concept) of a tool ([Is this tool a good idea?](https://
 ### How
 - **Anyone** can participate! **adding problems**, comment other problems
   - Do what you can, even you are not sure its is the best way to do it
-  - Dont be afraid, the maintainer will consolidate 
+  - Don't be afraid, the maintainer will consolidate 
 - **Members** can **directly edit** anything and correct what is wrong
   - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
 - **Admins** of this tool **help in finding solutions** to resolve problems
