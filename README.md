@@ -16,9 +16,10 @@ This is a PoC (Proof of Concept) of a tool ([Is this tool a good idea?](https://
 - Have the **ability to focus on the main, most blocking problems**
 
 ### How
-- **Anyone** can participate! **adding problems**, comment other problems
+- **Anyone** can participate! **adding problems** or **comment** other problems
   - Do what you can, even you are not sure its is the best way to do it
-  - Don't be afraid, the maintainer will consolidate 
+  - Don't be afraid, the maintainer will consolidate : if you think I miss/missundestand something, just tell me!
+  - Try to make 1 comment only: If you want to add something add it to your previous comment (has it helps to keep thing short and dense) 
 - **Members** can **directly edit** anything and correct what is wrong
   - If you want to correct something but you are not sure: strike-through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
 - **Admins** of this tool **help in finding solutions** to resolve problems
