@@ -2,7 +2,9 @@
 - [Summary: A digest of main priorities and lists of problems and their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
 - [Repository of all the problems](https://github.com/xymon-monitoring/problem-solving/issues)
 
- Note: This is a PoC (Proof of Concept) ([Is this tool a good idea?](https://github.com/xymon-monitoring/problem-solving/issues/17)): It can disapear without notice!
+ Note: 
+ - This is a PoC (Proof of Concept) ([Is this tool a good idea?](https://github.com/xymon-monitoring/problem-solving/issues/17))
+ - It can disapear without notice!
 
 ### Goals: a backlog tool
 - **Inventory the problems** 
