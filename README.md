@@ -1,5 +1,5 @@
 ### Xymon problems/issues
-- [Summary: A digest of main priorities and lists of problems and their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
+- [Summary: A digest of the main priorities and lists of problems with their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
 - [Repository of all the problems](https://github.com/xymon-monitoring/problem-solving/issues)
 
  Note: 
