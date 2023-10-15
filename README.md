@@ -4,13 +4,15 @@
 
 
 ### Goals: a backlog tool
-- To **inventory** and **manage status** of problems (related to the current context, but not only)
+- **Inventory the problems** 
   -  **That do not fit well in other repositories**
   -  **That are long discussions on the mailing lists that need to be consolidated** 
   -  **That are not elsewere so far** (No duplicates)
-- Have an  **colaborative, efficient and simple** tracking tool
-- Enable **focus on the main, most blocking problems**
+- Help **focus on the main, most blocking problems**
   - Order by priority or importance
+- Have a tracking tool
+  - Who take care
+  - Status
 
 ### How
 - **Anyone** can participate! **Adding problems** or **commenting** on problems
