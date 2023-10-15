@@ -1,6 +1,6 @@
 ### Xymon problems/issues
-- [Summary of all the problems and their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
-- [All the problems](https://github.com/xymon-monitoring/problem-solving/issues)
+- [Summary: A digest of main priorities and lists of problems and their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
+- [Repository of all the problems](https://github.com/xymon-monitoring/problem-solving/issues)
 
 
 ### Goals: a backlog tool
@@ -15,10 +15,10 @@
   - What is the status ?
 
 ### How
-- **Anyone** can participate! **Adding problems** or **commenting** on problems
-  - Do what you can, even you are not sure its is the best way to do it
-  - Don't be afraid, the maintainer will consolidate : if you think I missed/misunderstood something, just tell me!
-  - Try to make only one comment: If you want to add something add it to your previous comment (as it helps to keep things short and dense) 
+- **Anyone** can participate!
+  - **Adding** problems** or **commenting** existing problems
+  - Try to make only one comment: If you want to add something add it to your previous comment (as it helps to keep things short and dense)
+  - Your contibution will be review, consolidated and added to the main description: if you think the maintainer missed/misunderstood something: let us know!
 - **Members** can **directly edit** anything and correct what is wrong
   - If you want to correct something but you are not sure: strike through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
 - **Admins** of this tool **help in finding solutions** to resolve problems
