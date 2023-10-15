@@ -8,9 +8,9 @@
 
 ### Goals: a backlog tool
 - **Inventory the problems** 
-  -  **That do not fit well in other repositories**
+  -  **That do not fit well in other repositories** (Main goal)
   -  **That are long discussions on the mailing lists that need to be consolidated** 
-  -  **That are not elsewere so far** (No duplicates)
+  -  **That are not elsewere so far** (Can be temporary used for that, but should not create duplicates and alway prefer the right repository)
 - Help **focus on the main, most blocking problems**
   - Order by priority or importance
 - Have a tracking tool
