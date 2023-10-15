@@ -28,10 +28,9 @@
   - Do a **digest** that focuses on the main problems
   - Do **categorized lists of problems** that structure all problems
   - Be neutral (try to be: do not push their ideas, do not remove ideas from others,... )
-  - Follow guidelines to keep things simple 
-    - Split a category in 2, if it has more than 10 elements 
-    - Try to order by priority or importance
-  - Do recurrent work: create specific issues, refine issues, create issues, delete/closed issues (list), consolidate information
+  - Do recurrent work
+    - Create specific issues, refine issues, create issues, delete/closed issues (list), consolidate information
+    - Orginie info, follow guidelines to keep things simple ( like split a category in 2, if it has more than 10 elements)  
 - Github issues have an history: (click on "edited" at the top) to revert a mistake 
 - The whole repository is the tool (and is dedicated only for that: no files, no codes, just issues)
 
