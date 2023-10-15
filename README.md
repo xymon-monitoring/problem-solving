@@ -16,7 +16,7 @@
 
 ### How
 - **Anyone** can participate!
-  - **Adding** problems** or **commenting** existing problems
+  - By **adding** problems** or **commenting** on existing problems
   - Try to make only one comment: If you want to add something add it to your previous comment (as it helps to keep things short and dense)
   - Your contibution will be review, consolidated and added to the main description: if you think the maintainer missed/misunderstood something: let us know!
 - **Members** can **directly edit** anything and correct what is wrong
