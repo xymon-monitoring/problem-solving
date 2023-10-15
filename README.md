@@ -11,8 +11,8 @@
 - Help **focus on the main, most blocking problems**
   - Order by priority or importance
 - Have a tracking tool
-  - Who take care
-  - Status
+  - Who take care ?
+  - What is the status ?
 
 ### How
 - **Anyone** can participate! **Adding problems** or **commenting** on problems
