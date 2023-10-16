@@ -6,7 +6,7 @@
  - This is a PoC (Proof of Concept) ([Is this tool a good idea?](https://github.com/xymon-monitoring/problem-solving/issues/17))
  - It can disapear without notice!
 
-### A backlog/to-do tool 
+### Goal: A backlog/to-do tool 
 - **Inventory problems** and recurrent questions 
   - **That do not fit well in other repositories** 
   - **That are long discussions on the mailing lists that need to be consolidated** 
