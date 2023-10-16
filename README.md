@@ -10,8 +10,7 @@
 - **Make an inventory of problems and questions** 
   - **That do not fit well in other repositories** 
   - **That are long discussions on the mailing lists that need to be consolidated** 
-  - **That are not elsewere so far**
-    - Always prefer the correct repository to avoid duplicates, but can be used in case of difficulties with it
+  - **That are not elsewere so far** (prefer the correct repository, if you can!)
 - Enrich them with related information
 - Help **focus on the main, most blocking problems**
   - Order by priority or importance
