@@ -7,7 +7,7 @@
  - It can disapear without notice!
 
 ### Goals: a backlog tool
-- **Inventory the problems** 
+- **Inventory the problems**, recurrent questions 
   - **That do not fit well in other repositories** 
   - **That are long discussions on the mailing lists that need to be consolidated** 
   - **That are not elsewere so far**
