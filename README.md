@@ -1,4 +1,4 @@
-### Xymon problems/recurrent questions 
+### Xymon problems 
 - [Summary: A digest of the main priorities and lists of problems with their status](https://github.com/xymon-monitoring/problem-solving/issues/1)
 - [Repository of all the problems](https://github.com/xymon-monitoring/problem-solving/issues)
 
@@ -7,8 +7,8 @@
  - It can disapear without notice!
 
 ### Goal: A backlog/to-do tool 
-- **Make an inventory of problems and questions** 
-  - **That do not fit well in other repositories** 
+- **Make an inventory of problems (or questions)** 
+  - **That do not fit well in other repositories**, like general problem/question 
   - **That are long discussions on the mailing lists that need to be consolidated** 
   - **That are not elsewere so far** (prefer the correct repository, if you can!)
 - Enrich them with related information
@@ -17,7 +17,6 @@
 - Have a tracking tool
   - Who take care ?
   - What is the status ?
-
 
 ### How
 - **Anyone** can participate!
