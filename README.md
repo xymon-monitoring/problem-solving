@@ -8,7 +8,7 @@
 
 ### Goal: A backlog/to-do tool 
 - **Make an inventory of problems (or questions)** 
-  - **That do not fit well in other repositories**, like general problem/question 
+  - **That do not fit well in other repositories**, like general problems/questions
   - **That are long discussions on the mailing lists that need to be consolidated** 
   - **That are not elsewere so far** (prefer the correct repository, if you can!)
 - Enrich them with related information
