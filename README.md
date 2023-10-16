@@ -29,7 +29,7 @@
 - **Admins** of this tool **help in finding solutions** to resolve problems
   - They take care of the community and its volunteers (rules, CoC ?)
   - They assign people with their consent to problems 
-- **Maintainers** maintain the tool (what is not maintain by others)
+- **Maintainers** maintain the aspects of the tool that are not maintain by others
   - Triage and consolidate information: No duplicates, ...
   - Structure and organize information: Keep things simple, readable, ...
  
