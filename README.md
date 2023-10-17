@@ -15,7 +15,7 @@
 - Help **focus on the main, most blocking problems**
   - Order by priority or importance
 - Have a tracking tool
-  - Who take care ?
+  - Who is taking care ?
   - What is the status ?
 
 ### How
