@@ -22,7 +22,7 @@
 - **Anyone** can participate!
   - By **adding** problems or **commenting** on existing problems
   - Try to make only one comment: If you want to add something add it to your previous comment (as it helps to keep things short and dense)
-  - Github issues have an history: (click on "edited" at the top) to revert a mistak
+  - Github issues have an history: (click on "edited" at the top) to revert a mistake
   - Your contibution will be review, consolidated and added to the main description: if you think the maintainer missed/misunderstood something: let us know!
 - **Members** can **directly edit** anything and correct what is wrong
   - If you want to correct something but you are not sure: strike through the text (like \~\~text\~\~) that you want to replace and add the one you want.  
